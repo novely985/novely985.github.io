@@ -1,0 +1,8 @@
+body{
+	background-image: url(background.jpg);
+}
+h1{color: #008060; text-align: center;font-family: Rubik}
+h2{background-color:rgb(77,152,113);color:black;padding-bottom: 10px;font-family: Consolas }
+ul{border: 2px solid rgb(77,152,113); margin: 40px; background-color:white; font-family: Cambria}
+p{color: #008060;font-family: Bahnschrift; font-size: 20px }
+img{border-radius: 50%}
